@@ -4,7 +4,7 @@ Currently studying Accounting at Ain Shams University. From Egypt.<br>
 Passionate about web development, especially front-end technologies.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamMazenK&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
